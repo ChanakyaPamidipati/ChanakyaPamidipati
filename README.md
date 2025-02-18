@@ -39,6 +39,7 @@ I am **Pamidipati Chanakya Surya Narayana**, an aspiring Data Scientist passiona
 - Scikit-learn, TensorFlow, Keras, NLTK, OpenCV
 
 
+
 ## 🔬 Projects
 
 ### 📊 Meal Planner using Python Full Stack
