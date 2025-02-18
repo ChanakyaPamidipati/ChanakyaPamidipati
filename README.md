@@ -32,8 +32,6 @@ I am **Pamidipati Chanakya Surya Narayana**, an aspiring Data Scientist passiona
 ### **Machine Learning & AI:**
 - Scikit-learn, TensorFlow, Keras, NLTK, OpenCV
 
-### **Cloud & Big Data Platforms:**
-- AWS, Google Cloud, Apache Kafka, Apache Airflow, BigQuery
 
 ## 🔬 Projects
 
