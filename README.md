@@ -1,5 +1,8 @@
 # 🚀 Aspiring Data Scientist
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanakyapamidipati&label=Profile%20views&color=0e75b6&style=flat" alt="chanakyapamidipati" /> </p>
+
+
 **👋 Welcome to my GitHub profile!**
 
 I am **Pamidipati Chanakya Surya Narayana**, an aspiring Data Scientist passionate about transforming raw data into actionable insights through machine learning and advanced analytics. My expertise spans across data analysis, visualization, cloud technologies, and building end-to-end machine learning solutions.
@@ -23,9 +26,6 @@ I am **Pamidipati Chanakya Surya Narayana**, an aspiring Data Scientist passiona
 
 
 ## 🛠️ Skills & Technologies:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanakyapamidipati&label=Profile%20views&color=0e75b6&style=flat" alt="chanakyapamidipati" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
